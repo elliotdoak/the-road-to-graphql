@@ -1,7 +1,7 @@
 import 'dotenv/config';
 
-const userCredentials = { firstname: 'Robin' };
-const userDetails = { nationality: 'German' };
+const userCredentials = { firstname: 'Elliot' };
+const userDetails = { nationality: 'Scottish' };
 
 const user = {
   ...userCredentials,

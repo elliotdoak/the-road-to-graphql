@@ -8,8 +8,8 @@ An easy way to get started with JavaScript on the command line. [Read more about
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/minimal-node-application.git`
-* `cd minimal-node-application`
-* `npm install`
-* `npm start`
-* optional: include *.env* in your *.gitignore*
+- `git clone git@github.com:rwieruch/minimal-node-application.git`
+- `cd minimal-node-application`
+- `npm install`
+- `npm start`
+- optional: include _.env_ in your _.gitignore_
